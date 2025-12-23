@@ -19,6 +19,11 @@ A robust desktop application designed for comic book collectors to manage their 
     * **Validation:** Robust input validation to ensure data integrity.
     * **Internationalization:** Interface available in English and Portuguese.
 
+### 📂 Documentation
+The complete technical documentation is available in the `/docs` folder, including:
+* **Vision Document:** Functional summary of the application
+* **Technical Document:** Use Case, Sequence, Class, and Entity-Relationship (DER) diagrams.
+
 ### How to Run
 1. Ensure you have **MySQL** installed and run the script in the `/BANCO_DADOS` folder.
 2. Open the project in an IDE (Eclipse/IntelliJ) from the `/OPROJETO` folder.
@@ -40,6 +45,11 @@ Uma aplicação desktop robusta projetada para colecionadores de HQs gerenciarem
     * **Pesquisa Avançada:** Sistema de pesquisa em abas com filtragem complexa (por nome, código ou categoria).
     * **Validação:** Validação rigorosa de campos de entrada para garantir a integridade dos dados.
     * **Internacionalização:** Interface disponível em Português e Inglês.
+
+### 📂 Documentação
+A documentação técnica completa está disponível na pasta `/docs`, incluindo:
+* **Documento de Visão:** Resumo descritivo das funcionalidades
+* **Documento Técnico:** Diagramas de Casos de Uso, Sequência, Classes e DER
 
 ### Como Executar
 1. Certifica-te de que tens o **MySQL** instalado e executa o script na pasta `/BANCO_DADOS`.
