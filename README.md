@@ -50,5 +50,4 @@ Uma aplicação desktop robusta projetada para colecionadores de HQs gerenciarem
 
 ### 🎨 Credits & Transparency / Créditos e Transparência
 * **Developer:** Enzo Simon
-* **Visual Assets:** As artes e recursos visuais deste projeto foram gerados através de ferramentas de Inteligência Artificial (IA).
 * **Academic Background:** Projeto desenvolvido de acordo com as normas de Engenharia de Software da PUC Goiás.
